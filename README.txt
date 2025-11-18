@@ -1,1 +1,1 @@
-Condensed code for the project, credentials for Sentinel Hub needed to work.
+Condensed code for the project, snippets from different parts are shown.
